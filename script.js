@@ -88,7 +88,7 @@ new Vue({
           url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
           favorited: false
         },
-        {
+        { 
           name: "Vaathi",
           artist: "AniRudh",
           cover: "https://github.com/nayim786/nayim786.github.io/blob/main/Master-Vaathi.jpg",
@@ -96,7 +96,7 @@ new Vue({
           url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
           favorited: false
         } 
-      ],
+      ], 
       currentTrack: null,
       currentTrackIndex: 0,
       transitionName: null
