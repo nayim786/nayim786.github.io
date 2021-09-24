@@ -95,7 +95,7 @@ new Vue({
           source: "https://github.com/nayim786/nayim786.github.io/blob/main/Master-Vaathi.mp3",
           url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
           favorited: false
-        }
+        } 
       ],
       currentTrack: null,
       currentTrackIndex: 0,
