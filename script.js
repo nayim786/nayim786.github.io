@@ -87,6 +87,14 @@ new Vue({
           source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/9.mp3",
           url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
           favorited: false
+        },
+        {
+          name: "Vaathi",
+          artist: "AniRudh",
+          cover: "https://github.com/nayim786/nayim786.github.io/blob/main/Master-Vaathi.jpg",
+          source: "https://github.com/nayim786/nayim786.github.io/blob/main/Master-Vaathi.mp3",
+          url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
+          favorited: false
         }
       ],
       currentTrack: null,
